@@ -34,6 +34,21 @@ Filebridge 解决这个问题：在那台电脑上运行这个小工具，你就
 
 ⚠️ 建议仅共享专门用于开发或测试的目录，不要直接共享系统盘或包含敏感信息的目录。
 
+### 系统要求
+
+#### Windows
+
+- Windows 10/11 x64
+- Windows 10/11 ARM64
+- 不支持 Windows 7、Windows 8、Windows 8.1 和 32 位 Windows
+
+#### Linux
+
+- x64 或 ARM64
+- Linux kernel 4.18 或更高
+- glibc 2.28 或更高
+- 不支持 Alpine Linux/musl
+
 ### 下载安装
 
 进入右侧 **[Releases](../../releases)** 页面，根据目标电脑的系统和架构下载对应的安装包：
@@ -128,6 +143,21 @@ Filebridge solves this: run this small tool on that computer, and you can use AI
 **v0.0.1** — Early Testing Release
 
 ⚠️ It's recommended to only share directories specifically prepared for development or testing, not system drives or sensitive data folders.
+
+### System Requirements
+
+#### Windows
+
+- Windows 10/11 x64
+- Windows 10/11 ARM64
+- Windows 7, Windows 8, Windows 8.1, and 32-bit Windows are not supported
+
+#### Linux
+
+- x64 or ARM64
+- Linux kernel 4.18 or higher
+- glibc 2.28 or higher
+- Alpine Linux/musl is not supported
 
 ### Download & Installation
 
