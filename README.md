@@ -10,6 +10,8 @@
 
 **让 AI 帮你操作另一台电脑上的文件。**
 
+让装了 AI 的电脑，能操作没装 AI 的电脑上的文件。
+
 你的 AI 在这台电脑，要处理的文件在另一台电脑？  
 那台电脑太老装不了 AI，或者不让随便装软件？
 
@@ -20,7 +22,8 @@ Filebridge 解决这个问题：在那台电脑上运行这个小工具，你就
 - 你的台式机有 AI，想让它批量修改另一台老电脑上的文档
 - 公司电脑不让装 AI，但你想用自己电脑的 AI 帮它处理文件
 
-**一句话：** 让装了 AI 的电脑，能操作没装 AI 的电脑上的文件。
+ 
+**跨系统支持：** Windows 电脑可以控制 Linux 电脑，Linux 电脑也可以控制 Windows 电脑，只要网络互通即可。
 
 **能做什么：**
 - 📖 让 AI 读取远程电脑的文件（代码、日志、文档等）
@@ -131,6 +134,8 @@ Filebridge solves this: run this small tool on that computer, and you can use AI
 - Your work computer doesn't allow AI installation, but you want to use your personal computer's AI to process its files
 
 **In short:** Let the computer with AI operate files on the computer without AI.
+
+**Cross-platform support:** Windows can control Linux, Linux can control Windows, as long as they're on the same network.
 
 **What it can do:**
 - 📖 Let AI read files on a remote computer (code, logs, documents, etc.)
